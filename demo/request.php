@@ -1,5 +1,5 @@
 <?php
-// TODO make list for stopwords
+// Only a very simple demo not for production always treat user input as not clean
 if($_GET['input'] == 'badwords') {
 exit();
 }
